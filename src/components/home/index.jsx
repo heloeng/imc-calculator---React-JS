@@ -47,22 +47,11 @@ export const Home = () => {
                     <div className={styles.grid}>
                         {levels.map((item, key) => (
                             <GridItem key={key} item={item} />
-
                         ))}
-
                     </div>
-
-
-
                 </div>
             </div>
-
-
-
-
         </div>
-
     );
-
 }
 
