@@ -1,14 +1,13 @@
+    .main {
 
-.main {
-
-    flex: 1;
-    color: #FFF;
-    border-radius: 10px;
-    display: flex;
-    justify-content: center;
-    align-items: center ;
-    flex-direction: column;
-    padding: 20px;
+      flex: 1;
+      color: #FFF;
+      border-radius: 10px;
+      display: flex;
+      justify-content: center;
+      align-items: center ;
+      flex-direction: column;
+      padding: 20px;
     
     }
 
@@ -23,9 +22,13 @@
         
         }
 
-        
-.gridTitle {
-    font-size: 23px;
-    font-weight: bold;
-    margin-top: 5px;
+     .gridTitle {
+       font-size: 23px;
+       font-weight: bold;
+       margin-top: 5px;
     }
+
+    .yourImc{
+        font-size: 17px;
+        margin: 10px 0 50px 0;
+        }
